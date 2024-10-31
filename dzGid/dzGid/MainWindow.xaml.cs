@@ -25,6 +25,8 @@ namespace dzGid
         public MainWindow()
         {
             InitializeComponent();
+
+            
         }
     }
 }
